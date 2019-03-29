@@ -56,4 +56,9 @@ plt.legend(['Standard Deviation', 'Standard Error', 'Confidence Interval'],
 plt.ylabel('random variable')
 plt.title('15 random values in the range 5-15')
 
+
+
+
+
+plt.show()
 plt.show()
